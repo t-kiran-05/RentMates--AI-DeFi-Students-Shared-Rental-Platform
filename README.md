@@ -287,6 +287,5 @@ In-app messaging, live notifications, and viewing-appointment scheduling — all
 
 <div align="center">
 
-**⭐ If you find this project interesting, consider giving it a star!**
 
 </div>
