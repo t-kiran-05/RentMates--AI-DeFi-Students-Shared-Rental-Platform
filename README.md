@@ -18,7 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
 
-📌 *This repository is a project showcase — it documents the architecture, models, and UI through screenshots and technical writeups. Source code is private.*
+📌 *This repository is a project showcase, it documents the architecture, models, and UI through screenshots and technical writeups. Source code is private.*
 
 </div>
 
@@ -53,7 +53,7 @@ International students relocating for university face a rental market stacked ag
 
 ## 💡 The Solution
 
-**RentMates** introduces a trust layer built on smart contracts and machine learning to neutralize each of these risks — automated escrow refunds, collateral-backed P2P lending, AI-driven fraud detection, and data-backed fair pricing, all in one platform.
+**RentMates** introduces a trust layer built on smart contracts and machine learning to neutralize each of these risks, automated escrow refunds, collateral-backed P2P lending, AI-driven fraud detection, and data-backed fair pricing, all in one platform.
 
 ---
 
@@ -64,10 +64,10 @@ International students relocating for university face a rental market stacked ag
 <td width="50%" valign="top">
 
 ### 🔒 Smart Escrow & Visa-Safe Deposits
-Leases and deposits are executed entirely on-chain. If a visa is denied, refunds trigger automatically — no landlord can withhold funds.
+Leases and deposits are executed entirely on-chain. If a visa is denied, refunds trigger automatically, no landlord can withhold funds.
 
 ### 💰 DeFi P2P Rental Lending
-Peer-to-peer loans funded by investor pools, secured with **PAXG gold-token collateral** — completely bypassing traditional bank underwriting.
+Peer-to-peer loans funded by investor pools, secured with **PAXG gold-token collateral** ,completely bypassing traditional bank underwriting.
 
 ### 📈 Dynamic AI Fair-Rent Pricing
 A regression engine benchmarks rents against real-time **Numbeo cost-of-living data**, flagging overpriced listings before students commit.
@@ -82,7 +82,7 @@ A multi-layer audit engine scores every listing as **Safe / Medium / High risk**
 Compatibility scoring connects KYC-verified students by habits, budget, and program of study for co-living and joint bids.
 
 ### 💬 Real-Time Communication
-In-app messaging, live notifications, and viewing-appointment scheduling — all powered by WebSockets.
+In-app messaging, live notifications, and viewing-appointment scheduling, all powered by WebSockets.
 
 </td>
 </tr>
