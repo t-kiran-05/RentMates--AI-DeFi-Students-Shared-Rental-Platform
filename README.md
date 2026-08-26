@@ -107,7 +107,7 @@ In-app messaging, live notifications, and viewing-appointment scheduling — all
 
 ![Landlord tenant join requests](screenshots/tenant-join-requests.png)
 
-![Landlord's Bids Management](screenshots/landlord's-bids.png.png)
+![Landlord's Bids Management](screenshots/landlord's-bids.png)
 
 
 ### 🏘️ Investor Experience
