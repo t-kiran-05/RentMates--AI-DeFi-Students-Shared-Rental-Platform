@@ -171,7 +171,7 @@ In-app messaging, live notifications, and viewing-appointment scheduling — all
 
 **Scam Detection Report** — fraud-probability scoring with a breakdown of flagged risk factors per listing.
 
-![Scam Detection](screenshots/sproperty-listing-scam-analysis.png)
+![Scam Detection](screenshots/property-listing-scam-analysis.png)
 
 ---
 
@@ -277,8 +277,8 @@ In-app messaging, live notifications, and viewing-appointment scheduling — all
 
 | Name | Role |
 |---|---|
-| **Muhammad Ibrahim** | CIIT/FA22-BCS-062/ISB |
 | **Tayyiba Kiran** | CIIT/FA22-BCS-108/ISB |
+| **Muhammad Ibrahim** | CIIT/FA22-BCS-062/ISB |
 | **Sir Tanveer Ahmed** | Project Supervisor |
 
 *Department of Computer Science, COMSATS University Islamabad, Pakistan (2022–2026)*
